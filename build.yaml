@@ -18,3 +18,4 @@ include:
   - board: noru64_v1_right
   - board: nice_nano
     shield: settings_reset
+    shield: [ "noru64_v1_left", "noru64_v1_right" ]
