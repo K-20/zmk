@@ -37,7 +37,7 @@
     &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans   &trans   &trans   &trans  &trans  &trans  &trans
     &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans   &trans   &trans   &trans          &trans  &trans
     &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans            &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans                  &trans          &trans            &mo 2   &trans           &trans  &trans  &trans
+    &trans  &trans  &trans  &trans                  &trans          &trans            &mo 2   &trans           &kp C_VOL_DN  &kp C_MUTE  &kp C_VOL_UP
             >;
         };
 
