@@ -36,6 +36,8 @@ config ZMK_USB
 
 config ZMK_BATTERY_VOLTAGE_DIVIDER
 	default y
+config ZMK_SPLIT_BLE
+	default y
 
 if USB
 
